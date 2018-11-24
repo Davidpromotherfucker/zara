@@ -20,11 +20,11 @@ const gif = require("gif-search");
 
 const client = new Discord.Client({disableEveryone: true});
 
-const devs = ['439102535693762582'];
+const devs = ['505811134528356352'];
 
-const adminprefix = "3"
+const adminprefix = "1"
 
-const prefix = "3";
+const prefix = "1";
 /////////////////////////
 ////////////////////////
 
